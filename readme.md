@@ -64,8 +64,6 @@ This guage type uses the SignalK Shelly Plugin, to communicate with a Shelly 1 P
 It controls the Shelly device (toggles on/off) and displays its current state. The switch and display paths are both configured in WSK, along with colors and a large number of options.
 In this case - its used to switch on/off a secondary Hot Water boiler (mains powered)
 
-![image](https://github.com/gregsyoung/ESP32-sensESP-Last-Gasp-Circuit/blob/main/measured%20results.jpg)
-
 ### "Electrical Overview"
 
 This guage is typically used with Victron charger/inverter & system components, however all paths for the displayed data are configurable and can thus use various sources as needed.
