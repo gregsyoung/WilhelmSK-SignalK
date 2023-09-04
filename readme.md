@@ -22,7 +22,7 @@ In addition there are various other skserver plugins that are optional &/or requ
 
 ## At Pontoon Dashboard ("template")
 
-![image](https://github.com/gregsyoung/xx.jpg)
+![image](https://github.com/gregsyoung/WilhelmSK/blob/main/wsk_dash_1_annotate.jpg))
 
 ### "Web" guage type : display a Grafana dashboard
 
