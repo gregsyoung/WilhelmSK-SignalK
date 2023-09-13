@@ -80,5 +80,6 @@ In this case its a mix of Venus devices, Shelly EM power monitors and DC (sensES
 ### "Generic AMPS"
 
 A standard "digital" type guage - with a signalK path supplied with data from a Shelly EM power monitor (current sensor clamp). Whilst the Shelly Plugin could be used, it unfortunately cannot supply current (Amps) data (a known limitation of shelly API); in this case the Shelly EM has "Tasmota" firmware flashed into it, and uses Tasmota MQTT messages (via MQTT plugin) to supply volts, current, power and other information to signalk.
+
 ![image](https://github.com/gregsyoung/WilhelmSK/blob/main/shelly%20EM.jpg)
 ### 
