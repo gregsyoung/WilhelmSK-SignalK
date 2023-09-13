@@ -69,6 +69,7 @@ These low cost magnetic proximity switches are very cheap, easily fitted, have q
 This guage type uses the SignalK Shelly Plugin, to communicate with a Shelly 1 Plus AC mains switch.
 It controls the Shelly device (toggles on/off) and displays its current state. The switch and display paths are both configured in WSK, along with colors and a large number of options.
 In this case - its used to switch on/off a secondary Hot Water boiler (AC mains powered)
+
 ![image](https://github.com/gregsyoung/WilhelmSK/blob/main/shelly%20one%20plus.jpg)
 
 ### "Electrical Overview"
@@ -79,5 +80,5 @@ In this case its a mix of Venus devices, Shelly EM power monitors and DC (sensES
 ### "Generic AMPS"
 
 A standard "digital" type guage - with a signalK path supplied with data from a Shelly EM power monitor (current sensor clamp). Whilst the Shelly Plugin could be used, it unfortunately cannot supply current (Amps) data (a known limitation of shelly API); in this case the Shelly EM has "Tasmota" firmware flashed into it, and uses Tasmota MQTT messages (via MQTT plugin) to supply volts, current, power and other information to signalk.
-![image](https://github.com/gregsyoung/WilhelmSK/blob/main/shelly%20EM.png)
+![image](https://github.com/gregsyoung/WilhelmSK/blob/main/shelly%20EM.jpg)
 ### 
